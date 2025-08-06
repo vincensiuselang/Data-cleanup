@@ -43,9 +43,9 @@ npm run tauri dev
 
 ## 🚀 Roadmap
 
-- [ ] Add file type visualizer
-- [ ] Auto-detection of performance spikes
-- [ ] CLI interface for power users
+- [X] Add file type visualizer
+- [X] Auto-detection of performance spikes
+- [X] CLI interface for power users
 
 ## 🤝 Contributing
 
